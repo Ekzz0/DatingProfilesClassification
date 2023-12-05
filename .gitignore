@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my ignores
+*.csv
+*.session
+/telegram/config.py
+/Data Preparation/config.py
+/data/photos/
+*.pkl
+
 # C extensions
 *.so
 
